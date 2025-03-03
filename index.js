@@ -1,1 +1,3 @@
-
+const obj={
+  name :"near"
+}
